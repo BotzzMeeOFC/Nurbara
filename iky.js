@@ -1117,7 +1117,7 @@ if (args.length < 1) return reply('Jumlahnya?')
 case 'bugcombine':
 if (!isOwner && !kyy.key.fromMe) return reply(mess.only.owner)
                  ikyy.toggleDisappearingMessages(from, 'HACKED')
-ikyy.sendMessage(from, `PutraXd Bot`, text, {
+ikyy.sendMessage(from, `Made-With-By-ʙᴏᴛᴢᴢ ᴍᴇᴇ`, text, {
  quoted: {
   key: {
    participant: '0@s.whatsapp.net' // Fake sender Jid
@@ -4544,7 +4544,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                listmsg(from, `Silahkan Pliih List Patner Bot Disini!\nHarap Chat Yg Sopan Ya kak 😘`, `  `, list)
                break  
                case 'bara': 
-               sendKontak(from, `6283174508962`, `Bara Bot`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `6283174508962`, `Bara Bot`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4561,7 +4561,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break    
    case 'ryzer': 
-               sendKontak(from, `6289653354013`, `Ryzer Bot`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `6289653354013`, `Ryzer Bot`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4578,7 +4578,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break    
    case 'hans': 
-               sendKontak(from, `6283825289775`, `Hans Bot`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `6283825289775`, `Hans Bot`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4595,7 +4595,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break    
    case 'budi': 
-               sendKontak(from, `62895336282144`, `The.Sad.Boy 01`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `62895336282144`, `The.Sad.Boy 01`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4612,7 +4612,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break    
    case 'ikyy': 
-               sendKontak(from, `6283842942635`, `𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `6283842942635`, `𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4629,7 +4629,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break     
    case 'iki':
-               sendKontak(from, `6283812692567`, `𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `6283812692567`, `𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4650,7 +4650,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break     
    case 'dhani': 
-               sendKontak(from, `6281333603591`, `Botz Dhani`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `6281333603591`, `Botz Dhani`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4667,7 +4667,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break     
    case 'iki':
-               sendKontak(from, `6281806127339`, `Kurumi Tokisaki`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `6281806127339`, `Kurumi Tokisaki`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4684,7 +4684,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break     
    case 'galang':
-              sendKontak(from, `6281911124917`, `Night Bot`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+              sendKontak(from, `6281911124917`, `Night Bot`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4701,7 +4701,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break      
    case 'xinz': 
-               sendKontak(from, `6281994112523`, `Xinz`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `6281994112523`, `Xinz`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4718,7 +4718,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break                                               
    case 'adi': 
-               sendKontak(from, `6289504585790`, `Adi Official`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `6289504585790`, `Adi Official`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
@@ -4735,7 +4735,7 @@ NOTE : BOT ON 24 JAM KARNA DI RUN HEROKU
                ikyy.relayWAMessage(prep)
                break   
    case 'reza': 
-               sendKontak(from, `6281389997487`, `Reza Bot`, '𝘚𝘶𝘣𝘴𝘤𝘳𝘪𝘣𝘦 𝘗𝘶𝘵𝘳𝘢𝘟𝘥 𝘖𝘧𝘤!!')
+               sendKontak(from, `6281389997487`, `Reza Bot`, 'Jangan Lupa Subscribe BotzzMeeOFC')
                await sleep(1000)
                txtt =`Hai Kak ${pushname}\nJangan Lupa Follow Ig & Subscribe Yt Owner  Ya!`
 
